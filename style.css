@@ -1,0 +1,178 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Courgette&display=swap');
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+body {
+	background-color: #DFCCFB;
+	
+}
+
+
+.header {
+	background-color: #FCAEAE;
+	width: 100%;
+	height: 20%;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.icon-menu {
+	margin: 20px 10px ;
+    color: white;
+	
+}
+
+
+.logo {
+	font-family: "agbalumo";
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	font-size: 30px;
+	margin-top: 10px;
+	margin-left: 290px;
+	color: white;
+	
+	
+}
+
+
+	
+.nav ul {
+	margin: 20px 10px ;
+	display: flex;
+	list-style: none;
+
+}
+	
+
+.nav ul li a {
+	margin-left: 20px;
+	margin-right: 30px;
+	text-decoration: none;
+	color: white;
+
+	
+}
+
+
+.contenedor {
+	display: flex;
+	height: 593px;
+	justify-content: space-between;
+	padding: 10px;
+		
+}
+
+
+.sec1 {
+   align-self: center;
+   margin: 100px;
+	
+}
+
+
+.sec1 h1  {
+    font-size: 50px;
+	font-family: "agbalumo";
+	color: #FFF6F6;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+.buton {
+
+	align-self: center;
+	margin-top: 400px;
+	margin-left: 200px;
+	width: 220px;
+	background-color: #B931FC;
+	border-radius: 20px ;
+	padding: 10px 30px;
+	border-style: none;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	
+}
+
+
+
+.buton a {
+	text-decoration: none;
+	color: white;
+    
+
+}
+
+
+ img {
+	width: 600px;
+	
+	
+
+}
+
+
+.footer{
+	background-color: #6527BE;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	padding: 40px;
+	
+
+}
+
+
+.caja {
+	display: flex;
+	
+	background-color: #FCAEAE;
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
